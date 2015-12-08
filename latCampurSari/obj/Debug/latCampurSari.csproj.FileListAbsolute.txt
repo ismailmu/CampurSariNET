@@ -1,0 +1,10 @@
+D:\SOURCE CODE\DOTNET\latCampurSari\latCampurSari\bin\latCampurSari.dll
+D:\SOURCE CODE\DOTNET\latCampurSari\latCampurSari\bin\latCampurSari.pdb
+D:\SOURCE CODE\DOTNET\latCampurSari\latCampurSari\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE CODE\DOTNET\latCampurSari\latCampurSari\obj\Debug\latCampurSari.dll
+D:\SOURCE CODE\DOTNET\latCampurSari\latCampurSari\obj\Debug\latCampurSari.pdb
+D:\SOURCE CODES\DOTNET\latCampurSari\latCampurSari\bin\latCampurSari.dll
+D:\SOURCE CODES\DOTNET\latCampurSari\latCampurSari\bin\latCampurSari.pdb
+D:\SOURCE CODES\DOTNET\latCampurSari\latCampurSari\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE CODES\DOTNET\latCampurSari\latCampurSari\obj\Debug\latCampurSari.dll
+D:\SOURCE CODES\DOTNET\latCampurSari\latCampurSari\obj\Debug\latCampurSari.pdb
